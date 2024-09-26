@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DTH225704.Chuong2.Bai1", "DTH225704.Chuong2.Bai1\DTH225704.Chuong2.Bai1.pyproj", "{A4269820-EE40-4A15-BB62-F7817B4420EF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DTH225704.Chuong2.Bai2", "..\DTH225704.Chuong2\DTH225704.Chuong2.Bai2\DTH225704.Chuong2.Bai2.pyproj", "{5454E228-B8B6-4E52-85F5-439DA61B5217}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DTH225704.Chuong2.Bai3", "..\DTH225704.Chuong2\DTH225704.Chuong2.Bai3\DTH225704.Chuong2.Bai3.pyproj", "{2F732E2E-3E9A-4B56-92FF-48C65588EE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4269820-EE40-4A15-BB62-F7817B4420EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4269820-EE40-4A15-BB62-F7817B4420EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5454E228-B8B6-4E52-85F5-439DA61B5217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5454E228-B8B6-4E52-85F5-439DA61B5217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F732E2E-3E9A-4B56-92FF-48C65588EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F732E2E-3E9A-4B56-92FF-48C65588EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FC10A6-CF53-41E0-A70D-3679373F20B2}
+	EndGlobalSection
+EndGlobal
